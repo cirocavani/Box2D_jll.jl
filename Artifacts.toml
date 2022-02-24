@@ -1,0 +1,143 @@
+[[Box2D]]
+arch = "aarch64"
+git-tree-sha1 = "a99038b2cc6e246c290c4898a5d0ffabc30278c5"
+os = "macos"
+
+    [[Box2D.download]]
+    sha256 = "54e7a58d37e169ef043b63ecafe529c2b8cc2a70cece941a31679f311fef6da9"
+    url = "https://github.com/cirocavani/Box2D_jll.jl/releases/download/Box2D-v2.4.1+0/Box2D.v2.4.1.aarch64-apple-darwin.tar.gz"
+[[Box2D]]
+arch = "aarch64"
+git-tree-sha1 = "7332f34a6726f420128c1fac1fa34de5be613482"
+libc = "glibc"
+os = "linux"
+
+    [[Box2D.download]]
+    sha256 = "4505cbce7942af2322babfd3cdf4d231a5318eacffdaac2d39618f82a0738f74"
+    url = "https://github.com/cirocavani/Box2D_jll.jl/releases/download/Box2D-v2.4.1+0/Box2D.v2.4.1.aarch64-linux-gnu.tar.gz"
+[[Box2D]]
+arch = "aarch64"
+git-tree-sha1 = "43a9718387bb25b797aa47bea5b490b3af619dc1"
+libc = "musl"
+os = "linux"
+
+    [[Box2D.download]]
+    sha256 = "128a1ff4a023c843b72c422c638ba7b7c7ea2c1a78f4984b2761bb05ae3e1dbe"
+    url = "https://github.com/cirocavani/Box2D_jll.jl/releases/download/Box2D-v2.4.1+0/Box2D.v2.4.1.aarch64-linux-musl.tar.gz"
+[[Box2D]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ba3626d651e66b00015c7981b512f74223a73066"
+libc = "glibc"
+os = "linux"
+
+    [[Box2D.download]]
+    sha256 = "484ad58f4735007bcb38ba191b470f29c3192399e2dd7c5a097f3ad69acf0173"
+    url = "https://github.com/cirocavani/Box2D_jll.jl/releases/download/Box2D-v2.4.1+0/Box2D.v2.4.1.armv6l-linux-gnueabihf.tar.gz"
+[[Box2D]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b6dfbaffe70d374d1b687ad82f3adaa0b4ce2bf3"
+libc = "musl"
+os = "linux"
+
+    [[Box2D.download]]
+    sha256 = "dfb9e6ba33d47ca78594378681a94ae1edef38fa96d0baad8ab069d1f298b41d"
+    url = "https://github.com/cirocavani/Box2D_jll.jl/releases/download/Box2D-v2.4.1+0/Box2D.v2.4.1.armv6l-linux-musleabihf.tar.gz"
+[[Box2D]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "24f32e12c12986a76877941c8e3114352d71459f"
+libc = "glibc"
+os = "linux"
+
+    [[Box2D.download]]
+    sha256 = "af05ce12d70a9c04101b2a0d872698e4296ddbffd08db1852fc52337b6581b29"
+    url = "https://github.com/cirocavani/Box2D_jll.jl/releases/download/Box2D-v2.4.1+0/Box2D.v2.4.1.armv7l-linux-gnueabihf.tar.gz"
+[[Box2D]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "bfa4f0e56f36d4761278bee287168372bf936a57"
+libc = "musl"
+os = "linux"
+
+    [[Box2D.download]]
+    sha256 = "a66e2f4abd67feb01b444315eac13ec77c1b344d8df59396232bb6f4aff29ae3"
+    url = "https://github.com/cirocavani/Box2D_jll.jl/releases/download/Box2D-v2.4.1+0/Box2D.v2.4.1.armv7l-linux-musleabihf.tar.gz"
+[[Box2D]]
+arch = "i686"
+git-tree-sha1 = "04f5b12ec69d19c8eef7e4124182642471d0c149"
+libc = "glibc"
+os = "linux"
+
+    [[Box2D.download]]
+    sha256 = "dfcc113068a9cc35e84c72b1c9d6d5435b9e9c8adb937bd2b0e43169a2dea3bd"
+    url = "https://github.com/cirocavani/Box2D_jll.jl/releases/download/Box2D-v2.4.1+0/Box2D.v2.4.1.i686-linux-gnu.tar.gz"
+[[Box2D]]
+arch = "i686"
+git-tree-sha1 = "d3a636fc9f6c574ccb534e082ccb56141da45ce7"
+libc = "musl"
+os = "linux"
+
+    [[Box2D.download]]
+    sha256 = "a1c26e34fb24110eb4d7b384f36056f49355eb91963e2662350feeecb8eaf767"
+    url = "https://github.com/cirocavani/Box2D_jll.jl/releases/download/Box2D-v2.4.1+0/Box2D.v2.4.1.i686-linux-musl.tar.gz"
+[[Box2D]]
+arch = "i686"
+git-tree-sha1 = "1357fb4731735188ebcfe2da9f15d676c99e3d82"
+os = "windows"
+
+    [[Box2D.download]]
+    sha256 = "e7bebcd87112f9506ab4126eb7b923ca891154967b4a33ef1294ea8d69912bc1"
+    url = "https://github.com/cirocavani/Box2D_jll.jl/releases/download/Box2D-v2.4.1+0/Box2D.v2.4.1.i686-w64-mingw32.tar.gz"
+[[Box2D]]
+arch = "powerpc64le"
+git-tree-sha1 = "b22f2147da0b764c5d1844477a60bee7585fae78"
+libc = "glibc"
+os = "linux"
+
+    [[Box2D.download]]
+    sha256 = "7bb4cd74ab7c294f57936aca2c53347df28a09a526df657d94d5781a8a1c53d5"
+    url = "https://github.com/cirocavani/Box2D_jll.jl/releases/download/Box2D-v2.4.1+0/Box2D.v2.4.1.powerpc64le-linux-gnu.tar.gz"
+[[Box2D]]
+arch = "x86_64"
+git-tree-sha1 = "485e48c7e412411b7646251c3133080edefa5bad"
+os = "macos"
+
+    [[Box2D.download]]
+    sha256 = "a70b8e672ddc21ec84b6388f2fb4c0b407724a19031aba3374def5d1c150df36"
+    url = "https://github.com/cirocavani/Box2D_jll.jl/releases/download/Box2D-v2.4.1+0/Box2D.v2.4.1.x86_64-apple-darwin.tar.gz"
+[[Box2D]]
+arch = "x86_64"
+git-tree-sha1 = "0c8eae18996b48fea8a60617639eb8c56d4abaae"
+libc = "glibc"
+os = "linux"
+
+    [[Box2D.download]]
+    sha256 = "14d245cfaced9247371d2b2e4eeb33ee94f5cef39c46cc34c9d0671bf29516e0"
+    url = "https://github.com/cirocavani/Box2D_jll.jl/releases/download/Box2D-v2.4.1+0/Box2D.v2.4.1.x86_64-linux-gnu.tar.gz"
+[[Box2D]]
+arch = "x86_64"
+git-tree-sha1 = "193f4d2af44bec8d399dac087ca6368507705c27"
+libc = "musl"
+os = "linux"
+
+    [[Box2D.download]]
+    sha256 = "325da222f3b1f254cbfc3a7d2357ee21307cae68c62723d92479cc587d6442b9"
+    url = "https://github.com/cirocavani/Box2D_jll.jl/releases/download/Box2D-v2.4.1+0/Box2D.v2.4.1.x86_64-linux-musl.tar.gz"
+[[Box2D]]
+arch = "x86_64"
+git-tree-sha1 = "339281bffdcee5f185e7f316eb825df7ff80afbd"
+os = "freebsd"
+
+    [[Box2D.download]]
+    sha256 = "53b637826c1d9ea393ba479dae33e171a0ca660d3528def9215bbfbe4d38c7d9"
+    url = "https://github.com/cirocavani/Box2D_jll.jl/releases/download/Box2D-v2.4.1+0/Box2D.v2.4.1.x86_64-unknown-freebsd.tar.gz"
+[[Box2D]]
+arch = "x86_64"
+git-tree-sha1 = "abbc34668d853cd1d4d128fc2005c9a5c674d956"
+os = "windows"
+
+    [[Box2D.download]]
+    sha256 = "d36108118c53254d9556ae7aac5734d378299b14084d4d57fa3ff27c0661dcb9"
+    url = "https://github.com/cirocavani/Box2D_jll.jl/releases/download/Box2D-v2.4.1+0/Box2D.v2.4.1.x86_64-w64-mingw32.tar.gz"
